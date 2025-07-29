@@ -1,0 +1,1 @@
+Use the [Sentiment140 dataset](http://help.sentiment140.com/for-students/) for training the sentiment model. Download and put the CSV here.
